@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+:root {
+  font-family: 'Quicksand', sans-serif;
+  background: url(../src/assets/background.jpg) center / cover no-repeat fixed; 
+  -webkit-text-size-adjust: 100%;
+}
